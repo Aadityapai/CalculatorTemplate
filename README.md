@@ -9,3 +9,4 @@
   Features to be Implemented for the Assignemnt:
   * Subtraction, Division, Multiplication and Modulus
   * Display Result in a new activity and create a back button to go back to the calculator activity
+  * UI Improvements
